@@ -21,8 +21,8 @@ Host Configuration
 		
 ``conf/virtualbox.conf`` configuration::	
 
-	[android_on_linx]
-	label = android_on_linx
+	[android_on_linux]
+	label = android_on_linux
 	platform = android_on_linux
 	ip = 192.168.56.201
 	snapshot = clean_snapshot
